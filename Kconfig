@@ -1,0 +1,9 @@
+config DEMO_HELLOWORLD
+	tristate "A kernel module named Hello world"
+	#depends on
+	default m
+	help
+	  This is a example kernel module name helloworld, and will has named 
+	  'helloworld.ko' kernel module.
+
+
