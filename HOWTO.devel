@@ -1,0 +1,4 @@
+
+
+
+/sys/module/${kmod_name}/parameters/*
